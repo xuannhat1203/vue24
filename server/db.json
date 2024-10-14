@@ -1,0 +1,23 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "title": "State trong ReactJS3",
+      "image": "https://images.viblo.asia/d0325af4-85c5-4e0d-a32d-2aeea0171f3a.png",
+      "date": "04/03/2024",
+      "status": true
+    },
+    {
+      "status": false,
+      "id": 2
+    },
+    {
+      "id": 4,
+      "title": "12312",
+      "image": "123",
+      "content": "123",
+      "status": true,
+      "date": "10/12/2024"
+    }
+  ]
+}
